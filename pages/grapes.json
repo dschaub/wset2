@@ -2041,11 +2041,11 @@
         "body": "Medium,Full",
         "flavour": "Red fruit: strawberry, raspberry, red cherry",
         "oak": "Often oaked",
-        "additional_characteristics": "Blended or single varietal;Takes on strong flavours from oak: coffee, chocolate, smoke",
+        "additional_characteristics": "Blended or single varietal (with Cabernet Sauvignon and/or Merlot for Cape Blend);Takes on strong flavours from oak: coffee, chocolate, smoke",
         "aging": "Can age",
         "country": "South Africa",
         "region": "Western Cape",
-        "characteristics": null
+        "characteristics": "blended with Cabernet Sauvignon and\/or Merlot for Cape Blend"
     },
     {
         "order": 23,
@@ -2185,7 +2185,7 @@
         "body": "Light,Medium,Full",
         "flavour": "Red fruit: red cherry, red plum",
         "oak": "Basic: usually unoaked",
-        "additional_characteristics": "Often blended (local varieties);Appassimento method sometimes used",
+        "additional_characteristics": "Often blended (local varieties);Appassimento method sometimes used (dried in order to concentrate flavours)",
         "aging": "Can be for early drinking;Can age",
         "country": "Italy",
         "region": "Veneto, Valpolicella",
